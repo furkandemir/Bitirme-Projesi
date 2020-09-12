@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Booklist</string>
+    <string name="kayit_ol">Kayıt Ol!</string>
+    <string name="giris_yap">Giriş Yap</string>
+    <string name="parola">Parola</string>
+    <string name="kullanici_adi">Kullanıcı Adı</string>
+    <string name="logo">logo</string>
+    <string name="anasayfa">Anasayfa</string>
+    <string name="ilan_ver">İlan Ver</string>
+    <string name="profil">Profil</string>
+</resources>
